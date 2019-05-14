@@ -84,7 +84,7 @@ to process (parse and generate) these messages.
 
 .. should_not::
 
-   Agency APIs should not produce or consume messages in a propietary format. This is
+   Agency APIs should not produce or consume messages in a proprietary format. This is
    because open formats maximise interoperability and reduce costs and risks associated
    with API utilisation.
 
@@ -127,7 +127,7 @@ proxy caching issues.
 
 .. should::
 
-   Agency APIs should consider supplimenting URL-based format speficications with
+   Agency APIs should consider supplementing URL-based format specifications with
    HTTP header based format specification (e.g.  `Content-Type:` and `Accept:`).
 
 .. should::
